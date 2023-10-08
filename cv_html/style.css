@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+.td1
+{
+    
+    width:200px ;
+    height:750px;
+    padding-left:10px;
+    background-color:#FDFEFE;
+}
+.td2
+{
+    width:450px ;
+    height:750px;
+    padding-left:10px;
+    background-color:#FDFEFE;
+}
+.td3
+{
+width:225px;
+
+}
+
+ hr{
+       border-style:none;
+        border-top-style: dotted;
+        width: 5%;
+        border-color: grey;
+        border-width: 5px;
+    }   
